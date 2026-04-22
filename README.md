@@ -1,6 +1,6 @@
 ## Hi, I'm Kuba
 I'm currently finishing my masters in computer science. \
-Im passionate about the web and modern developer friendly solutions
+Im passionate about the web and modern, developer friendly solutions
 
 <div>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
